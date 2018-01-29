@@ -1,0 +1,8 @@
+$NetBSD$
+
+SHA1 (munin-c-0.0.11.tar.gz) = fba5cb73bdd5af853ab4a8f0c06d3319b5a675eb
+RMD160 (munin-c-0.0.11.tar.gz) = 83567da626823757b2363360ba78cb845cd726d6
+SHA512 (munin-c-0.0.11.tar.gz) = 51af7dc2c0709e4c0311ce6cadd72e07b45f9e43363b2bd4088d49635b9e8b297ac043a41c44285d46b458b97090b517f989e13e5206c6de0fe26f3634cc4848
+Size (munin-c-0.0.11.tar.gz) = 37564 bytes
+SHA1 (patch-src_node_Makefile.am) = e0075135e441e39f2c5700cc99f3b7fba6ee6c65
+SHA1 (patch-src_node_node.c) = 02643e7c288921f68600ceae517fd9b3fa1c5e54
